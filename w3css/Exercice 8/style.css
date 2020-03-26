@@ -1,24 +1,29 @@
 .blue {
-  background-color: blue;
+  background-color: #f0ffff;
 }
 .purple {
-  background-color: purple;
+  background-color: #8a2be2;
 }
 .yellow {
-  background-color: yellow;
+  background-color: #ffebcd;
 }
 .orange {
-  background-color: orange;
+  background-color: #ff7f50;
 }
 .red {
-  background-color: red;
+  background-color: #7fffd4;
 }
 .brown {
-  background-color: brown;
+  background-color: #d2691e;
 }
 table{
   text-align: center;
 }
-#blue1 {
-  width: 20px;
+#longueur{
+  width: 900px;
+  height: 350px;
+}
+#longueur2{
+  width: 100px;
+  height: 50px;
 }

@@ -1,5 +1,25 @@
 #Arial {
   font-family: arial;
   font-size : 12px;
-  font-weight: 900
+  font-weight: bold;
+}
+#Verdana {
+  font-family: Verdana;
+  font-size : 18px;
+  font-style: italic;
+  font-weight: 400;
+}
+#Courier {
+  font-family: courier;
+  font-size : 12px;
+  color: white;
+  background-color: blue;
+}
+#Verdana1 {
+  font-family: Verdana;
+  font-size : 16px;
+  color: white;
+  background-color: black;
+  text-align: right;
+  text-decoration: underline;
 }
